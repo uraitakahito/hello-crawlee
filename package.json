@@ -1,0 +1,19 @@
+{
+  "name": "hello-crawlee",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uraitakahito/hello-crawlee.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/uraitakahito/hello-crawlee/issues"
+  },
+  "homepage": "https://github.com/uraitakahito/hello-crawlee#readme",
+  "description": ""
+}
