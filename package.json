@@ -17,6 +17,10 @@
   "homepage": "https://github.com/uraitakahito/hello-crawlee#readme",
   "description": "",
   "devDependencies": {
+    "@apify/eslint-config-ts": "^0.4.1",
+    "@typescript-eslint/eslint-plugin": "^8.24.1",
+    "@typescript-eslint/parser": "^8.24.1",
+    "eslint": "^8.57.1",
     "typescript": "^5.7.3"
   }
 }
