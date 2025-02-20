@@ -1,0 +1,31 @@
+{
+  "name": "hello-crawlee",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -b -v --listFiles"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uraitakahito/hello-crawlee.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/uraitakahito/hello-crawlee/issues"
+  },
+  "homepage": "https://github.com/uraitakahito/hello-crawlee#readme",
+  "description": "",
+  "devDependencies": {
+    "@apify/eslint-config-ts": "^0.4.1",
+    "@typescript-eslint/eslint-plugin": "7.18",
+    "@typescript-eslint/parser": "7.18",
+    "eslint": "^8.57.1",
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "crawlee": "^3.12.2",
+    "puppeteer": "^24.2.1"
+  }
+}
